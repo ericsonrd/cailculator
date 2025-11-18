@@ -1,0 +1,58 @@
+:root {
+
+    /* Spacing */
+    --margin_1: 5px;
+    --margin_2: 10px;
+    --margin_3: 20px;
+    --margin_4: 40px;
+    --margin_5: 50px;
+    --margin_6: 80px;
+    --padding_1: 5px;
+    --padding_2: 10px;
+    --padding_3: 20px;
+    --padding_4: 40px;
+    --padding_5: 50px;
+    --padding_6: 80px;
+    --padding_7: 120px;
+    --padding_8: 200px;
+    --gap_1: 5px;
+    --gap_2: 10px;
+    --gap_3: 20px;
+    --gap_4: 38px;
+    --gap_5: 50px;
+    --gap_6: 65px;
+    --gap_7: 130px;
+    --gap_8: 200px;
+
+    /* Borders */
+    --border_1: 1.5px;
+    --border_2: 3px;
+    --border_radius_1: 7px;
+    --border_radius_2: 10px;
+    --border_radius_3: 20px;
+    --border_radius_4: 35px;
+
+    /* Colors */
+    --main-color: #fffdf8;
+    --accent-color: #94aeff;
+    --dark_grey: #151515;
+    --medium_grey: #7c7c7b;
+    --light_grey: #e5e3df;
+    --divider: #292929;
+    --transparent_bg: #121212d9;
+    --warning: #fc5353;
+    --white: #FFFFFF;
+    --black: #000000;    
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
